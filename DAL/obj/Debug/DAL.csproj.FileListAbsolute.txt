@@ -1,0 +1,9 @@
+H:\POO\DAL\DAL\bin\Debug\DAL.dll
+H:\POO\DAL\DAL\bin\Debug\DAL.pdb
+H:\POO\DAL\DAL\obj\Debug\DAL.dll
+H:\POO\DAL\DAL\obj\Debug\DAL.pdb
+D:\BANCO DE CLASSES\Prj_DAL\DAL\bin\Debug\DAL.dll
+D:\BANCO DE CLASSES\Prj_DAL\DAL\bin\Debug\DAL.pdb
+D:\BANCO DE CLASSES\Prj_DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\BANCO DE CLASSES\Prj_DAL\DAL\obj\Debug\DAL.dll
+D:\BANCO DE CLASSES\Prj_DAL\DAL\obj\Debug\DAL.pdb
